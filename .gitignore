@@ -1,0 +1,16 @@
+# Données lourdes
+data/
+
+# Fichiers de poids / Checkpoints des modèles
+*.pt
+*.pth
+checkpoints/
+
+# Journaux d'entraînement
+runs/
+
+# Fichiers temporaires Python & Notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
